@@ -1,5 +1,8 @@
 review
  -mobil
-   velg*
+   sparepart*
  -motor
+    *akinya
     *bannya
+ -sepeda
+ -tesla
