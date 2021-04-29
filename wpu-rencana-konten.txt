@@ -1,4 +1,8 @@
 review
  -mobil
+   sparepart*
  -motor
+    *akinya
+    *bannya
  -sepeda
+ -tesla
