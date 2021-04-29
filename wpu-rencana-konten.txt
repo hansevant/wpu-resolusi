@@ -3,5 +3,6 @@ review
    sparepart*
  -motor
     *akinya
+    *bannya
  -sepeda
  -tesla
