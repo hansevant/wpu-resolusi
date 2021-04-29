@@ -2,4 +2,4 @@ review
  -mobil
    velg*
  -motor
- *bannya
+    *bannya
