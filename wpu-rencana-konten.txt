@@ -1,0 +1,4 @@
+review
+ -mobil
+ -motor
+ 
