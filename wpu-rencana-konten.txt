@@ -1,4 +1,5 @@
 review
  -mobil
+   velg*
  -motor
- -sepeda
+ *bannya
